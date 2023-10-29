@@ -1,0 +1,2 @@
+# PierwszeRepozytorium
+Pierwszy projekt C#
